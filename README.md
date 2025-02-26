@@ -1,4 +1,4 @@
-# Person Detection with Parallel Processing
+# Person Detection with Parallel Processing for Multi-stream Cameras
 
 This project implements **real-time person detection** using **YOLO** and **OpenCV**, leveraging **parallel threading** for efficient sound alerts and video processing.
 
